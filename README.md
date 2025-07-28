@@ -87,6 +87,7 @@ Templates for [choo-cli](https://github.com/trainyard/choo-cli)
 - [trainyard/template-basic](https://github.com/trainyard/template-basic)
 - [haroenv/template-webpack](https://github.com/haroenv/template-webpack)
 - [simonwjackson/atomic-choo](https://github.com/simonwjackson/atomic-choo) - An opinionated project seed to get started developing with electron, webpack and choo.
+- [wh0am1-dev/choof](https://github.com/wh0am1-dev/choof)
 
 Other CLI templates
 - [graforlock/choo-bandwagon](https://github.com/graforlock/choo-bandwagon)
@@ -122,6 +123,7 @@ Other CLI templates
 - [choo-ban](https://github.com/luizbaldi/choo-ban) - Simple kanban to manage board tasks, built with `choo`.
 - [boowa](https://github.com/boowajs/boowa) - A fun blog generator, built with `choo`.
 - [hyperamp](https://github.com/hypermodules/hyperamp) - Humble music player.
+- [rlspain](https://github.com/wh0am1-dev/rlspain) - Rocket League spanish leaderboard.
 
 ### License
 
